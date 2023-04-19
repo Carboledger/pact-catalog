@@ -1,0 +1,8 @@
+{
+    "id": "carboledger-share",
+    "name": "Carboledger",
+    "version": "0.1.0",
+    "website": "https://www.carboledger.com",
+    "provider": "Carboledger",
+    "summary": "With a vision to enable 100% supplier-specific emissions calculations, Carboledger is building a secure enterprise network to help organisations in value chain exchange primary data."
+  }
